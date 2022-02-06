@@ -103,7 +103,7 @@
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Snapshot Nexus Repository </name>
-	      <url>http://172.31.21.169:8081/repository/DevOps-Jenkins-Project-Release-Snapshot/</url>
+	      <url>http://3.21.234.185:8081/repository/DevOps-Jenkins-Project-Snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
